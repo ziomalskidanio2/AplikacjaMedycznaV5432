@@ -44,8 +44,9 @@
     </JavaOptions>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="com.refractored.monodroidtoolkit">
-      <HintPath>..\..\CommonDlls\com.refractored.monodroidtoolkit.dll</HintPath>
+    <Reference Include="com.refractored.monodroidtoolkit, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MonoDroid.Toolkit.1.1.0.0\lib\MonoAndroid10\com.refractored.monodroidtoolkit.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="Mono.Android.Export" />
