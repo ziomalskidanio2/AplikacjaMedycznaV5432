@@ -1867,14 +1867,17 @@ namespace NavDrawer
 			// aapt resource value: 0x7f090041
 			public const int contentPanel = 2131296321;
 			
-			// aapt resource value: 0x7f090070
-			public const int content_frame = 2131296368;
+			// aapt resource value: 0x7f090072
+			public const int content_frame = 2131296370;
 			
 			// aapt resource value: 0x7f090045
 			public const int custom = 2131296325;
 			
 			// aapt resource value: 0x7f090044
 			public const int customPanel = 2131296324;
+			
+			// aapt resource value: 0x7f090067
+			public const int dane = 2131296359;
 			
 			// aapt resource value: 0x7f09004e
 			public const int decor_content_parent = 2131296334;
@@ -1888,8 +1891,8 @@ namespace NavDrawer
 			// aapt resource value: 0x7f09000c
 			public const int disableHome = 2131296268;
 			
-			// aapt resource value: 0x7f09006f
-			public const int drawer_layout = 2131296367;
+			// aapt resource value: 0x7f090071
+			public const int drawer_layout = 2131296369;
 			
 			// aapt resource value: 0x7f09001c
 			public const int dropdown = 2131296284;
@@ -1915,11 +1918,11 @@ namespace NavDrawer
 			// aapt resource value: 0x7f09002e
 			public const int fill_vertical = 2131296302;
 			
-			// aapt resource value: 0x7f09006e
-			public const int friend_description = 2131296366;
+			// aapt resource value: 0x7f090070
+			public const int friend_description = 2131296368;
 			
-			// aapt resource value: 0x7f09006d
-			public const int friend_image = 2131296365;
+			// aapt resource value: 0x7f09006f
+			public const int friend_image = 2131296367;
 			
 			// aapt resource value: 0x7f09005f
 			public const int grid = 2131296351;
@@ -1939,6 +1942,21 @@ namespace NavDrawer
 			// aapt resource value: 0x7f090038
 			public const int image = 2131296312;
 			
+			// aapt resource value: 0x7f090068
+			public const int input1 = 2131296360;
+			
+			// aapt resource value: 0x7f090069
+			public const int input2 = 2131296361;
+			
+			// aapt resource value: 0x7f09006a
+			public const int input3 = 2131296362;
+			
+			// aapt resource value: 0x7f09006b
+			public const int input4 = 2131296363;
+			
+			// aapt resource value: 0x7f09006c
+			public const int input5 = 2131296364;
+			
 			// aapt resource value: 0x7f090024
 			public const int italic = 2131296292;
 			
@@ -1951,8 +1969,8 @@ namespace NavDrawer
 			// aapt resource value: 0x7f09002f
 			public const int left = 2131296303;
 			
-			// aapt resource value: 0x7f090071
-			public const int left_drawer = 2131296369;
+			// aapt resource value: 0x7f090073
+			public const int left_drawer = 2131296371;
 			
 			// aapt resource value: 0x7f090009
 			public const int listMode = 2131296265;
@@ -1960,8 +1978,8 @@ namespace NavDrawer
 			// aapt resource value: 0x7f09003a
 			public const int list_item = 2131296314;
 			
-			// aapt resource value: 0x7f090073
-			public const int menu_refresh = 2131296371;
+			// aapt resource value: 0x7f090075
+			public const int menu_refresh = 2131296373;
 			
 			// aapt resource value: 0x7f090015
 			public const int middle = 2131296277;
@@ -1996,8 +2014,8 @@ namespace NavDrawer
 			// aapt resource value: 0x7f090006
 			public const int progress_horizontal = 2131296262;
 			
-			// aapt resource value: 0x7f090072
-			public const int psts_tab_title = 2131296370;
+			// aapt resource value: 0x7f090074
+			public const int psts_tab_title = 2131296372;
 			
 			// aapt resource value: 0x7f09004a
 			public const int radio = 2131296330;
@@ -2083,29 +2101,14 @@ namespace NavDrawer
 			// aapt resource value: 0x7f090043
 			public const int textSpacerNoButtons = 2131296323;
 			
-			// aapt resource value: 0x7f090067
-			public const int textView1 = 2131296359;
-			
-			// aapt resource value: 0x7f090068
-			public const int textView2 = 2131296360;
-			
-			// aapt resource value: 0x7f090069
-			public const int textView3 = 2131296361;
-			
-			// aapt resource value: 0x7f09006a
-			public const int textView4 = 2131296362;
-			
-			// aapt resource value: 0x7f09006b
-			public const int textView5 = 2131296363;
-			
 			// aapt resource value: 0x7f09003c
 			public const int title = 2131296316;
 			
 			// aapt resource value: 0x7f09003f
 			public const int title_template = 2131296319;
 			
-			// aapt resource value: 0x7f09006c
-			public const int toolbar = 2131296364;
+			// aapt resource value: 0x7f09006e
+			public const int toolbar = 2131296366;
 			
 			// aapt resource value: 0x7f090032
 			public const int top = 2131296306;
@@ -2127,6 +2130,9 @@ namespace NavDrawer
 			
 			// aapt resource value: 0x7f09001d
 			public const int wrap_content = 2131296285;
+			
+			// aapt resource value: 0x7f09006d
+			public const int zatwierdz = 2131296365;
 			
 			static Id()
 			{

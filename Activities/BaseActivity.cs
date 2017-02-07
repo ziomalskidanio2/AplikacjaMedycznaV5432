@@ -14,6 +14,7 @@ namespace NavDrawer.Activities
 {
     public abstract class BaseActivity : AppCompatActivity
 	{
+       
 		public Toolbar Toolbar {
 			get;
 			set;
@@ -27,7 +28,7 @@ namespace NavDrawer.Activities
 				SetSupportActionBar(Toolbar);
 				SupportActionBar.SetDisplayHomeAsUpEnabled(true);
 				SupportActionBar.SetHomeButtonEnabled (true);
-
+                
 			}
 		}
 
